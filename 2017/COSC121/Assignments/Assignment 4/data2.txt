@@ -1,0 +1,12 @@
+course_code, course_name, student_number, given_name, family_name
+ENG002,Engineering Mechanics and Materials,2721815,Claudetta,Kolenda
+FCOM02,Communication Skills III,2113869,Ofelia,Salibi
+ECO001,Introduction to Microeconomics,2923516,Lowietje,Tait
+MTH001,Mathematics 1,2923516,Lowietje,Tait
+ECO001,Introduction to Microeconomics,2721815,Claudetta,Kolenda
+ENG001,Foundations of Engineering,2923516,Lowietje,Tait
+PHY001,Engineering Physics 1,2949099,Vin,Noah
+GEL001,Planet Earth: An Introduction to Geology,2113869,Ofelia,Salibi
+INF001,Information Systems,2286481,Eran,Kasumovich
+ENG001,Foundations of Engineering,2113869,Ofelia,Salibi
+FCOM03,Introduction to Computing,2923516,Lowietje,Tait

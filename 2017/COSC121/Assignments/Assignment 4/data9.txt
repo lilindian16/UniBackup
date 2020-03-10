@@ -1,0 +1,11 @@
+course_code, course_name, student_number, given_name, family_name
+ECO001,Introduction to Microeconomics,2232020,Sask,Keim
+MKT001,Principles of Marketing,2227825,Kouji,Ayscue
+INF001,Information Systems,2223493,Laurene,Kimbrough
+CSC001,Computer Programming,2227825,Kouji,Ayscue
+MKT001,Principles of Marketing,2729464,Clerissa,Brodersen
+ENG002,Engineering Mechanics and Materials,2223493,Laurene,Kimbrough
+FBIO01,Introduction to Biology,2729464,Clerissa,Brodersen
+PHY001,Engineering Physics 1,2729464,Clerissa,Brodersen
+MEA001,Mixed English Programme,2168147,Van,Ochman
+FCOM01,Communication Skills II,2729464,Clerissa,Brodersen

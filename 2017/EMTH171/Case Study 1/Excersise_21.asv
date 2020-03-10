@@ -1,0 +1,40 @@
+% EMTH171
+% Jaime Sequeira and .....
+% Case study 1 excersise 1
+
+clear
+clc
+
+% Set up variables and constants
+
+%Electric motor
+alpha = 1;         % Constant used for power supplied by motor equaiton
+beta = 3.14;        %Constant used for power motor equation
+radiusPulley = 0.5;
+ratioGB = 20;                         %Ratio of gearbox for motor
+
+
+% Friction component
+mass = 1000;
+gravity = 9.81;
+theta = 45;
+frictionCoefficient = 0.2;
+
+% Create anaonymous function
+f = @(v) mass * gravity * sin(theta) * V + frictionCoefficient * mass *...
+    gravity * cos(theta) * v - alpha*(((beta* ratioGB * v)/radiusPulley)-...
+    (ratioGB^2*v^2)/radiusPulley^2);
+
+d = @(v) mass * gravity * sin(theta) + frictionCoefficient * mass * gravity*...
+    cos(theta) - (alpha*((beta * ratioGB / radiusPulley) - ((2*ratioGB^2 *...
+    v)/radiusPulley^2)));
+
+
+% For loop to use Newton's method
+x = 2  
+
+for ii = 
+
+
+
+

@@ -1,0 +1,8 @@
+course_code, course_name, student_number, given_name, family_name
+MTH001,Mathematics 1,2763358,Cooper,Porter
+EMT003,Mathematical Modelling and Computation,2788579,Mandi,Stachowiak
+FMTH01,Advanced Mathematics I,2763358,Cooper,Porter
+MGM001,Fundamentals of Management,2763358,Cooper,Porter
+ACC002,Financial Accounting,2788579,Mandi,Stachowiak
+FBIO01,Introduction to Biology,2763358,Cooper,Porter
+EMT001,Engineering Mathematics 1,2927443,Kemal,Pepe

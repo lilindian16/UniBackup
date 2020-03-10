@@ -1,0 +1,34 @@
+course_code, course_name, student_number, given_name, family_name
+EMT001,Engineering Mathematics 1,2286560,Dayton,Archambault
+FMKT01,Marketing,2547053,Vladimir,Zemanek
+CSC001,Computer Programming,2656583,Ronny,Ridley
+MGM001,Fundamentals of Management,2928707,Susanne,Eastland
+MTH002,Mathematics 2,2786372,Danella,Crabe
+FCOM03,Introduction to Computing,2564885,Hpone,Ganadry
+FCOM03,Introduction to Computing,2762453,Phelia,Pottle
+FMCM02,Mass Communication II (Film Studies),2656583,Ronny,Ridley
+ENG001,Foundations of Engineering,2564885,Hpone,Ganadry
+MKT001,Principles of Marketing,2571096,Shoshanna,Shupe
+AWA001,Engineering Writing Skills,2286560,Dayton,Archambault
+FCOM03,Introduction to Computing,2606735,Aaren,Enns
+ACC002,Financial Accounting,2762453,Phelia,Pottle
+FMTH01,Advanced Mathematics I,2571096,Shoshanna,Shupe
+FCOM03,Introduction to Computing,2955520,Bjorn,Kakou
+EMT003,Mathematical Modelling and Computation,2762453,Phelia,Pottle
+MEA001,Mixed English Programme,2564885,Hpone,Ganadry
+MGM001,Fundamentals of Management,2606735,Aaren,Enns
+MEA001,Mixed English Programme,2606735,Aaren,Enns
+FPHY01,Physics,2564885,Hpone,Ganadry
+FBIO01,Introduction to Biology,2547053,Vladimir,Zemanek
+ENG001,Foundations of Engineering,2571096,Shoshanna,Shupe
+MKT001,Principles of Marketing,2656583,Ronny,Ridley
+MTH001,Mathematics 1,2286560,Dayton,Archambault
+ECO002,Introduction to Macroeconomics,2786372,Danella,Crabe
+FCHM01,Chemistry,2286560,Dayton,Archambault
+FCOM01,Communication Skills II,2786372,Danella,Crabe
+FMCM02,Mass Communication II (Film Studies),2928707,Susanne,Eastland
+CSC001,Computer Programming,2955520,Bjorn,Kakou
+ENG002,Engineering Mechanics and Materials,2762453,Phelia,Pottle
+EMT003,Mathematical Modelling and Computation,2656583,Ronny,Ridley
+FMCM02,Mass Communication II (Film Studies),2955520,Bjorn,Kakou
+ECO002,Introduction to Macroeconomics,2928707,Susanne,Eastland

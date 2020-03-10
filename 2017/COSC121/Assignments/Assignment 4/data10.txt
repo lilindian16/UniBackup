@@ -1,0 +1,227 @@
+course_code, course_name, student_number, given_name, family_name
+ENG001,Foundations of Engineering,2236113,Joycelin,Macnicoll
+FCHM01,Chemistry,2424080,Shannen,Brousseau
+FMTH01,Advanced Mathematics I,2230096,Inquire,Dobby
+EMT002,Engineering Mathematics 2,2706861,Merrile,Setterfield
+MTH001,Mathematics 1,2848275,Roelof,Armenakis
+FPHY01,Physics,2573235,Maryvonne,Gravelle
+ACC001,Accounting and Financial Information,2276601,Henrie,Davids
+FSTA01,Statistics,2359501,Kamil,Kenlan
+MDM001,Managerial Decision Making,2295451,Aideen,Pundyk
+EMT001,Engineering Mathematics 1,2359501,Kamil,Kenlan
+INF001,Information Systems,2188769,Luigi,Costen
+FMKT01,Marketing,2898041,Kees,Blois
+CSC002,Introduction to Computer Science,2979475,Rigby,Makoid
+FSTA01,Statistics,2236113,Joycelin,Macnicoll
+ENG002,Engineering Mechanics and Materials,2124287,Pac,Kuczynski
+MTH002,Mathematics 2,2504401,Ceriel,Ofcparm
+ACC001,Accounting and Financial Information,2666948,Count,Cotten
+FCHM01,Chemistry,2841044,Oliver,Mcdonald
+MTH001,Mathematics 1,2275068,Wayne,Edmunds
+FPHY01,Physics,2559402,Lorna,Elbi
+FMKT01,Marketing,2939459,Gena,Govindasamy
+FSTA01,Statistics,2188769,Luigi,Costen
+MKT001,Principles of Marketing,2750421,Jessie,Bondurant
+STA001,Statistics,2792540,Bertrand,Sparacio
+MTH002,Mathematics 2,2518268,Wandie,Kunecke
+FMCM02,Mass Communication II (Film Studies),2559402,Lorna,Elbi
+FMKT01,Marketing,2302573,Materkowski,Bice
+ENG002,Engineering Mechanics and Materials,2841044,Oliver,Mcdonald
+INF001,Information Systems,2628238,Reta,Rodriguez
+PHY001,Engineering Physics 1,2582336,Ladell,Salhany
+EMT003,Mathematical Modelling and Computation,2252027,Qainsp,Chia
+FCHM01,Chemistry,2275068,Wayne,Edmunds
+FCOM02,Communication Skills III,2397480,Darrelle,Goodbar
+FMCM02,Mass Communication II (Film Studies),2134134,Cookie,Prystie
+FCHM01,Chemistry,2752091,Kristien,Hollingsworth
+CSC002,Introduction to Computer Science,2848275,Roelof,Armenakis
+FMKT01,Marketing,2848275,Roelof,Armenakis
+FMKT01,Marketing,2188769,Luigi,Costen
+ENG001,Foundations of Engineering,2194104,Rocky,Ciolfi
+CSC002,Introduction to Computer Science,2750421,Jessie,Bondurant
+FCOM02,Communication Skills III,2369519,Dalton,Broome
+MTH002,Mathematics 2,2138472,Thierry,Callery
+FCOM01,Communication Skills II,2621332,Maurita,Graydon
+FMCM02,Mass Communication II (Film Studies),2806742,Paulien,Horemans
+ACC001,Accounting and Financial Information,2682754,Minne,Robbins
+FMTH02,Advanced Mathematics II,2890340,Ranna,Dusomos
+ENG001,Foundations of Engineering,2613324,Mercy,Crepeau
+FMTH01,Advanced Mathematics I,2249010,Bryce,Swact
+MTH001,Mathematics 1,2278963,Gopal,Delvecchio
+FCHM01,Chemistry,2211326,Rodrigo,Marco
+FMTH02,Advanced Mathematics II,2274123,Bobette,Pelosi
+FMTH02,Advanced Mathematics II,2637516,Gerrit,Herndon
+FBIO01,Introduction to Biology,2504566,Beatrix,Helpb
+CSC002,Introduction to Computer Science,2792540,Bertrand,Sparacio
+EMT001,Engineering Mathematics 1,2118533,Sheila,Guenette
+ACC002,Financial Accounting,2303112,Clifton,Frenette
+AWA001,Engineering Writing Skills,2426095,Careers,Samora
+ENG002,Engineering Mechanics and Materials,2086309,Jaclyn,Shibahara
+MGM001,Fundamentals of Management,2125887,Nonnah,Chaurette
+FSTA01,Statistics,2828250,Mandi,Cuany
+FSTA01,Statistics,2138472,Thierry,Callery
+MTH001,Mathematics 1,2419528,Raz,Kannemann
+FMCM02,Mass Communication II (Film Studies),2841044,Oliver,Mcdonald
+MTH001,Mathematics 1,2047612,Ignace,Collier
+MDM001,Managerial Decision Making,2859444,Nadiya,Wiebe
+ECO001,Introduction to Microeconomics,2291423,Margarette,Hoadley
+ENG002,Engineering Mechanics and Materials,2504566,Beatrix,Helpb
+ECO002,Introduction to Macroeconomics,2185649,Shamshad,Sloboda
+EMT001,Engineering Mathematics 1,2299882,Edouard,Bhasin
+FINF01,Information Design,2007268,Marjolein,Ramroop
+MEA001,Mixed English Programme,2591711,Adiana,Maycock
+FPHY01,Physics,2202664,Fey,Heilig
+EMT002,Engineering Mathematics 2,2591711,Adiana,Maycock
+FMTH01,Advanced Mathematics I,2134134,Cookie,Prystie
+INF001,Information Systems,2764096,Sissela,Reddick
+FCHM01,Chemistry,2124287,Pac,Kuczynski
+MGM001,Fundamentals of Management,2249331,Lalitha,Macquistan
+ECO002,Introduction to Macroeconomics,2682754,Minne,Robbins
+FSTA01,Statistics,2547186,Sherrye,Aubrey
+CSC001,Computer Programming,2979475,Rigby,Makoid
+EMT003,Mathematical Modelling and Computation,2940556,Mignon,Stjohn
+GEL001,Planet Earth: An Introduction to Geology,2785605,Mattie,Dawkins
+CSC002,Introduction to Computer Science,2302573,Materkowski,Bice
+ENG001,Foundations of Engineering,2541303,Levent,Nestor
+EMT002,Engineering Mathematics 2,2249010,Bryce,Swact
+ACC002,Financial Accounting,2606680,Idaline,Ander
+EMT001,Engineering Mathematics 1,2573235,Maryvonne,Gravelle
+FCHM01,Chemistry,2940556,Mignon,Stjohn
+GEL001,Planet Earth: An Introduction to Geology,2369519,Dalton,Broome
+GEL001,Planet Earth: An Introduction to Geology,2197953,Marcela,Kish
+CSC001,Computer Programming,2547186,Sherrye,Aubrey
+FMKT01,Marketing,2086309,Jaclyn,Shibahara
+FPHY01,Physics,2898041,Kees,Blois
+CSC002,Introduction to Computer Science,2275068,Wayne,Edmunds
+MDM001,Managerial Decision Making,2419528,Raz,Kannemann
+EMT003,Mathematical Modelling and Computation,2194104,Rocky,Ciolfi
+FPHY01,Physics,2211326,Rodrigo,Marco
+ACC001,Accounting and Financial Information,2609451,Arabela,Thakur
+ECO001,Introduction to Microeconomics,2764096,Sissela,Reddick
+PHY001,Engineering Physics 1,2546244,Glori,Skaff
+ACC001,Accounting and Financial Information,2637516,Gerrit,Herndon
+FMTH01,Advanced Mathematics I,2848275,Roelof,Armenakis
+ENG001,Foundations of Engineering,2086309,Jaclyn,Shibahara
+FSTA01,Statistics,2134134,Cookie,Prystie
+FMTH02,Advanced Mathematics II,2632524,Vino,Ayukawa
+GEL001,Planet Earth: An Introduction to Geology,2737422,Khosro,Phagan
+FMCM02,Mass Communication II (Film Studies),2184447,Shahrokh,Battersby
+ACC002,Financial Accounting,2510410,Barbe,Golka
+EMT002,Engineering Mathematics 2,2343211,Simona,Ballyk
+FCOM03,Introduction to Computing,2275068,Wayne,Edmunds
+FMTH01,Advanced Mathematics I,2849635,Lissy,Tseng
+ECO002,Introduction to Macroeconomics,2782419,Rory,Raynard
+FBIO01,Introduction to Biology,2806742,Paulien,Horemans
+FMTH02,Advanced Mathematics II,2619925,Ankie,Peers
+FCOM01,Communication Skills II,2905812,Cathee,Krenos
+PHY001,Engineering Physics 1,2086309,Jaclyn,Shibahara
+FCHM01,Chemistry,2890340,Ranna,Dusomos
+PHY001,Engineering Physics 1,2408796,Selena,Pelkie
+FCOM02,Communication Skills III,2628238,Reta,Rodriguez
+EMT001,Engineering Mathematics 1,2408796,Selena,Pelkie
+FMTH02,Advanced Mathematics II,2184447,Shahrokh,Battersby
+FPHY01,Physics,2637848,Rchlab,Michels
+EMT001,Engineering Mathematics 1,2185649,Shamshad,Sloboda
+ECO001,Introduction to Microeconomics,2890340,Ranna,Dusomos
+PHY001,Engineering Physics 1,2419528,Raz,Kannemann
+ECO002,Introduction to Macroeconomics,2547186,Sherrye,Aubrey
+AWA001,Engineering Writing Skills,2359501,Kamil,Kenlan
+GEL001,Planet Earth: An Introduction to Geology,2990839,Sibeal,Lethbridge
+EMT002,Engineering Mathematics 2,2295451,Aideen,Pundyk
+FCOM02,Communication Skills III,2405275,Audi,Bessuille
+FSTA01,Statistics,2252027,Qainsp,Chia
+FMTH01,Advanced Mathematics I,2504566,Beatrix,Helpb
+ACC002,Financial Accounting,2191899,Ragu,Dantzler
+CSC001,Computer Programming,2995720,Gretchen,Macneill
+ENG001,Foundations of Engineering,2995720,Gretchen,Macneill
+EMT001,Engineering Mathematics 1,2728291,Chrysler,Mahiger
+FINF01,Information Design,2728291,Chrysler,Mahiger
+ACC002,Financial Accounting,2785605,Mattie,Dawkins
+ENG001,Foundations of Engineering,2369519,Dalton,Broome
+CSC001,Computer Programming,2249010,Bryce,Swact
+ACC002,Financial Accounting,2299882,Edouard,Bhasin
+INF001,Information Systems,2138472,Thierry,Callery
+MTH001,Mathematics 1,2504566,Beatrix,Helpb
+PHY001,Engineering Physics 1,2628238,Reta,Rodriguez
+EMT003,Mathematical Modelling and Computation,2752031,Ephraim,Edmunds
+ECO002,Introduction to Macroeconomics,2276601,Henrie,Davids
+CSC002,Introduction to Computer Science,2236113,Joycelin,Macnicoll
+FCOM03,Introduction to Computing,2658811,Skipper,Paradis
+ECO002,Introduction to Macroeconomics,2541303,Levent,Nestor
+EMT003,Mathematical Modelling and Computation,2905812,Cathee,Krenos
+FMKT01,Marketing,2343211,Simona,Ballyk
+FMTH02,Advanced Mathematics II,2419528,Raz,Kannemann
+AWA001,Engineering Writing Skills,2768682,Adrianne,Monroe
+FBIO01,Introduction to Biology,2176177,Talya,Hennebury
+EMT003,Mathematical Modelling and Computation,2898041,Kees,Blois
+FCOM03,Introduction to Computing,2585728,Harriett,Kriegler
+MTH002,Mathematics 2,2295451,Aideen,Pundyk
+MTH001,Mathematics 1,2518268,Wandie,Kunecke
+ACC002,Financial Accounting,2249010,Bryce,Swact
+CSC001,Computer Programming,2125887,Nonnah,Chaurette
+CSC002,Introduction to Computer Science,2426095,Careers,Samora
+FMTH02,Advanced Mathematics II,2194104,Rocky,Ciolfi
+FINF01,Information Design,2191899,Ragu,Dantzler
+STA001,Statistics,2619925,Ankie,Peers
+FSTA01,Statistics,2782419,Rory,Raynard
+AWA001,Engineering Writing Skills,2257804,Aurelie,Ricker
+FINF01,Information Design,2343211,Simona,Ballyk
+FMTH02,Advanced Mathematics II,2343211,Simona,Ballyk
+EMT003,Mathematical Modelling and Computation,2291758,Croix,Mavis
+STA001,Statistics,2405275,Audi,Bessuille
+ECO002,Introduction to Macroeconomics,2669128,Fons,Carufel
+INF001,Information Systems,2905812,Cathee,Krenos
+ENG002,Engineering Mechanics and Materials,2752031,Ephraim,Edmunds
+FMTH01,Advanced Mathematics I,2658811,Skipper,Paradis
+MGM001,Fundamentals of Management,2806742,Paulien,Horemans
+ACC002,Financial Accounting,2138472,Thierry,Callery
+FMTH02,Advanced Mathematics II,2841044,Oliver,Mcdonald
+FCOM03,Introduction to Computing,2408796,Selena,Pelkie
+FCOM03,Introduction to Computing,2902412,Terza,Garand
+INF001,Information Systems,2118533,Sheila,Guenette
+INF001,Information Systems,2295451,Aideen,Pundyk
+ECO001,Introduction to Microeconomics,2276601,Henrie,Davids
+FMTH01,Advanced Mathematics I,2483816,Els,Danagher
+FMTH01,Advanced Mathematics I,2238915,Myrna,Lennig
+MKT001,Principles of Marketing,2818661,Hayley,Sandford
+INF001,Information Systems,2191899,Ragu,Dantzler
+ECO002,Introduction to Macroeconomics,2230096,Inquire,Dobby
+CSC001,Computer Programming,2606680,Idaline,Ander
+FBIO01,Introduction to Biology,2125887,Nonnah,Chaurette
+ACC001,Accounting and Financial Information,2303112,Clifton,Frenette
+FCOM03,Introduction to Computing,2669128,Fons,Carufel
+ACC001,Accounting and Financial Information,2806742,Paulien,Horemans
+ACC001,Accounting and Financial Information,2109402,Shoshana,Harada
+ENG002,Engineering Mechanics and Materials,2230096,Inquire,Dobby
+MTH002,Mathematics 2,2426095,Careers,Samora
+FCOM01,Communication Skills II,2518268,Wandie,Kunecke
+PHY001,Engineering Physics 1,2768682,Adrianne,Monroe
+FCOM01,Communication Skills II,2356616,Averil,Mandeville
+EMT002,Engineering Mathematics 2,2914489,Nixie,Kumar
+ACC002,Financial Accounting,2125887,Nonnah,Chaurette
+ECO002,Introduction to Macroeconomics,2591711,Adiana,Maycock
+ACC002,Financial Accounting,2818661,Hayley,Sandford
+ECO001,Introduction to Microeconomics,2573235,Maryvonne,Gravelle
+FCOM02,Communication Skills III,2585728,Harriett,Kriegler
+MGM001,Fundamentals of Management,2427261,Jaquenetta,Mudry
+ACC002,Financial Accounting,2547186,Sherrye,Aubrey
+CSC002,Introduction to Computer Science,2194104,Rocky,Ciolfi
+FCOM02,Communication Skills III,2764096,Sissela,Reddick
+FMTH02,Advanced Mathematics II,2238915,Myrna,Lennig
+CSC001,Computer Programming,2541303,Levent,Nestor
+STA001,Statistics,2940556,Mignon,Stjohn
+FINF01,Information Design,2236113,Joycelin,Macnicoll
+FCOM03,Introduction to Computing,2518268,Wandie,Kunecke
+EMT003,Mathematical Modelling and Computation,2176177,Talya,Hennebury
+FCOM01,Communication Skills II,2007268,Marjolein,Ramroop
+FBIO01,Introduction to Biology,2764096,Sissela,Reddick
+MEA001,Mixed English Programme,2728291,Chrysler,Mahiger
+ECO001,Introduction to Microeconomics,2249331,Lalitha,Macquistan
+FMKT01,Marketing,2541303,Levent,Nestor
+EMT002,Engineering Mathematics 2,2682754,Minne,Robbins
+CSC001,Computer Programming,2752091,Kristien,Hollingsworth
+STA001,Statistics,2191899,Ragu,Dantzler
+ENG002,Engineering Mechanics and Materials,2397480,Darrelle,Goodbar
+FCOM03,Introduction to Computing,2369519,Dalton,Broome
+FMTH01,Advanced Mathematics I,2902412,Terza,Garand
+ECO001,Introduction to Microeconomics,2818661,Hayley,Sandford
